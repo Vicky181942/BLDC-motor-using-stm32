@@ -4,6 +4,8 @@ An open-source, STM32-based sensored brushless (BLDC) motor controller. Designed
 
 <img width="1141" height="700" alt="bldc 3D view" src="https://github.com/user-attachments/assets/f5129ba4-a1b3-488f-b85b-90715b0a0e02" />
 <img width="580" height="761" alt="bldc pcb view" src="https://github.com/user-attachments/assets/9b5cbdae-5838-4255-b5ad-bcf935de6c8f" />
+<img width="1067" height="752" alt="bldc schm" src="https://github.com/user-attachments/assets/c2084240-57ac-4054-a708-53a5bcd2b672" />
+
 *Assembled prototype (M3/M4 mini-QFN driver + 3x MOSFET half-bridge layout, STM32 daughter area, connector header on top edge).*
 
 > Replace the image path above once you add the board photo into `docs/`. The photo used in this README was taken from the assembled prototype shown alongside the schematic capture.
