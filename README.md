@@ -8,8 +8,6 @@ An open-source, STM32-based sensored brushless (BLDC) motor controller. Designed
 
 *Assembled prototype (M3/M4 mini-QFN driver + 3x MOSFET half-bridge layout, STM32 daughter area, connector header on top edge).*
 
-> Replace the image path above once you add the board photo into `docs/`. The photo used in this README was taken from the assembled prototype shown alongside the schematic capture.
-
 ---
 
 ## 1. Overview
@@ -119,7 +117,6 @@ The schematic is split into hierarchical sheets, which map directly to the proje
 | J_MOTOR | 3-phase motor output | *TBD — fill in from BOM* | — |
 | J_PWR (V_SUPPLY) | Power input connector | *TBD — fill in from BOM* | — |
 
-> **How to fill this in:** open your KiCad project, export the BOM (`Tools → Generate BOM`), and match each schematic reference designator to its manufacturer part number. Once you have them, replace the `TBD` rows with the exact part and a link to the manufacturer's datasheet page (e.g. ST, TI, Infineon, onsemi, Vishay). I've left the table structure ready so this is a quick copy/paste job.
 
 ---
 
