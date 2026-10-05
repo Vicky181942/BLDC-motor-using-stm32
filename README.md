@@ -54,8 +54,6 @@ The schematic is split into hierarchical sheets, which map directly to the proje
 | CAD tool | KiCad EDA 10.0.1 |
 | Board size | A4 schematic sheet |
 
-> Exact part numbers for the gate-driver IC, power MOSFETs, and CAN transceiver aren't legible from the schematic capture used to write this README — see the **BOM placeholders** in §4 and fill them in from your actual bill of materials so the datasheet links stay accurate.
-
 ---
 
 ## 3. Architecture / Signal Flow
